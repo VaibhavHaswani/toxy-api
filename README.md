@@ -1,4 +1,4 @@
-# Toxy-api
+# Toxy-API
 [ToxyClassifier](http://toxyclassifier.netlify.com/) rest api !!
 
 **Stack**: Node.js , Express , tensorflow.js
